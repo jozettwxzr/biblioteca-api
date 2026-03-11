@@ -1,2 +1,13 @@
-# biblioteca-api
-API RESTful para gerenciamento de biblioteca — CRUD completo — Node.js e Express
+# Biblioteca API
+
+API REST para gerenciamento de biblioteca.
+
+## Tecnologias
+
+- Node.js
+- Express
+
+## Como executar
+
+npm install
+npm run dev
